@@ -1,5 +1,5 @@
 # Global-Weather
 # Screenshot
-![](image/screenshot1.png)
-![](image/screenshot2.png)
-![](image/screenshot3.png)
+![](images/screenshot1.png)
+![](images/screenshot2.png)
+![](images/screenshot3.png)
